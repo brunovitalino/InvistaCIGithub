@@ -3,7 +3,7 @@ public class InvistaCI {
 
 		for (int i=1; i<=10; i++) {
 
-			System.out.println("Bom dia Leandher! "+i);
+			System.out.println("Bom dia! "+i);
 		}
 	}
 }
